@@ -44,7 +44,7 @@ A full-featured mobile task management application built with **React Native** a
 
 4.  **Run the App**
     ```bash
-    npx expo start
+    npx expo start --tunnel
     ```
 
 ## 📱 Screenshots
@@ -53,7 +53,6 @@ A full-featured mobile task management application built with **React Native** a
 | Sign In | Task List |
 |:---:|:---:|
 | *(Add Image)* | *(Add Image)* |
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
